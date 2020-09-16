@@ -1,5 +1,5 @@
 # Toursystem
-### Mysql 과 C를 활용하여 여행 예약  (소스 코드 : 소스.c )
+### Mysql 과 C를 활용 여행 예약 시스템  (소스 코드 : 소스.c )
 
 - ER모델<br> 
 ![ER](https://user-images.githubusercontent.com/69624521/93326313-9096d700-f853-11ea-8b2d-6c3725edfac9.PNG)<br>
