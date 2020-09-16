@@ -12,3 +12,4 @@ Mysql 과 C를 활용하여 여행 예약  (소스 코드 : 소스.c )
 5. 예약 정보 확인<br><br>
 - Detail<br>
 ![TourSystem-01](https://user-images.githubusercontent.com/69624521/93327541-778f2580-f855-11ea-96b5-84644430b55c.jpg)<br>
+![TourSystem-02](https://user-images.githubusercontent.com/69624521/93327546-78c05280-f855-11ea-804a-c668acd4f6cc.jpg)<br>
